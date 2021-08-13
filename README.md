@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Josemat aka Emmanuel Tulian
-- 👀 I’m interested in become a self-taught front end dev
-- 🌱 I’m currently learning java and javascript
-- 💞️ I’m looking to collaborate on improving our lives and bringing easy and cool solutions
-- 📫 How to reach me https://www.linkedin.com/in/jose-emmanuel-tulian-171b8b131
+- 👀 I’m interested in become a self-taught Full Stack dev
+- 🌱 I’m currently learning java, javascript, HTML, CSS, Bootstrap. Always learning
+- 💞️ I’m looking to collaborate on improving our lives and bring easyness and cool solutions to our day to day.
+- 📫 How to reach me? Easy! Go to https://www.linkedin.com/in/jose-emmanuel-tulian-171b8b131
 
 <!---
 Josemat/Josemat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
