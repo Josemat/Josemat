@@ -2,7 +2,8 @@
 - 👀 I’m interested in become a self-taught Full Stack dev
 - 🌱 I’m currently learning java, javascript, HTML, CSS, Bootstrap. Always learning
 - 💞️ I’m looking to collaborate on improving our lives and bring easyness and cool solutions to our day to day.
-- 📫 How to reach me? Easy! Go to https://www.linkedin.com/in/jose-emmanuel-tulian-171b8b131
+- 📫 How to reach me? Easy! Go to <a href="https://www.linkedin.com/in/jose-emmanuel-tulian-171b8b131">Linkedin @Josemat</a>
+
 
 Color Palette:
 020300
