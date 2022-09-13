@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Josemat a.k.a. Jose Emmanuel Tulian
-- 👀 I’m interested in become a self-taught dev
+- 👋 Hi, I’m Jose Emmanuel Tulian a.k.a. @Josemat 
+- 👀 I’m interested in become a professional dev
 - 🌱 I’m currently learning java, javascript, HTML, CSS, Bootstrap. Always learning
 - 💞️ I’m looking to collaborate on improving our lives and bring easyness and cool solutions to our day to day.
 - 📫 How to reach me? Easy! Go to <a href="https://www.linkedin.com/in/jose-emmanuel-tulian-171b8b131">Linkedin @Josemat</a>
-- My humble personal Portfolio: https://josemat.github.io/
+- My humble personal Portfolio: www.emmanueltulian.com.ar
 - 
 
 
